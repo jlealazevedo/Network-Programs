@@ -1,0 +1,17 @@
+#!/usr/bin/python
+
+import os
+
+print(os.getcwd())
+
+curDir = os.getcwd()
+
+valFile = curDir + "/valid.txt"
+
+inValFile = curDir + "/invalid.txt"
+print(os.path.isfile(valFile))
+
+print(os.path.isfile(inValFile))
+
+
+

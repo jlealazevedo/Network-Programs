@@ -1,0 +1,22 @@
+#!/bin/bash
+clear
+echo python3 ftclient.py localhost $1 -l $2
+python3 ftclient.py localhost $1 -l $2
+echo -----------------------------------------------------
+echo python3 ftclient.py localhost $1 -g valid.txt $2 
+python3 ftclient.py localhost $1 -g valid.txt $2
+echo -----------------------------------------------------
+echo python3 ftclient.py localhost $1 test1.txt $2
+python3 ftclient.py localhost $1 -g test1.txt $2
+echo -----------------------------------------------------
+echo python3 ftclient.py localhost $1 -g invalid.txt $2
+python3 ftclient.py localhost $1 -g invalid.txt $2
+echo -----------------------------------------------------
+echo python3 ftclient.py localhost $1 -badlog invalid.txt $2
+python3 ftclient.py localhost $1 -badlog invalid.txt $2
+echo -----------------------------------------------------
+echo python3 ftclient.py localhost $1 -err $2
+python3 ftclient.py localhost $1 -err $2
+
+
+
