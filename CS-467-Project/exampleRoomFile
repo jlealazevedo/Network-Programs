@@ -1,0 +1,15 @@
+room name
+short description
+long description
+visited (true or false)
+number of items in inventory
+item 1
+item 2
+number of features
+feature 1
+feature 2
+number of room connections
+room north
+room east
+room south
+room west

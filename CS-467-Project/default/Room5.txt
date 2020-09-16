@@ -1,0 +1,4 @@
+cafeteria
+The lights are out in this room, save for the constantly blinking, red Alarm light. Each time it blinks you get more of the chaos.  There is food everywhere, trays laying on the ground.  You see a coffee Maker, filled with hot coffee in the corner, it’s comforting smell seems out of place in the chaos.  There’s a special board on the wall, detailing what food will be available this week.  You pick up your foot, as you realize you stepped in something sticky, it’s a pile of jello, your favorite flavor.
+You can see a coffee maker with coffee in it, and a food special’s board.
+false

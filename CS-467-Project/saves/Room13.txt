@@ -1,0 +1,4 @@
+medbay
+The smell of antiseptic tells you that you’ve hit the med bay before your eyes adjust to the dim light.  There is a row of cots, thankfully empty, though one has a tray filled with supplies next to it.  Next to another is a heart monitor.  Everything is neat and organized, though one thing sticks out to you.  You see that someone has written “Don’t Alien, Open Inside”, you shake your head as you realize that it is just bad formatting and says “Don’t Open, Alien Inside”.  You realize that you need to make sure you’re fully prepared before you venture through the door to the Command Center, even though that’s the only path to the Escape pod.
+There is a warning on the exit to the Command Center that the alien is on the other side.  There is a tray with medical supplies, though it’s hard to tell which kind at this distance, and a heart monitor by another bed.
+false

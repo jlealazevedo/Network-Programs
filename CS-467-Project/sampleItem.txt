@@ -1,0 +1,5 @@
+employee manual
+This is a manual that will list the commands that you can use in the game. 
+true
+This is the second description. 
+This is the second verb. 

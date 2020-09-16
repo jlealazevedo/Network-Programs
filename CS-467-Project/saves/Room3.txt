@@ -1,0 +1,4 @@
+holodeck
+As you enter, you realize that whoever was using the holodeck last, left it on shuffle.  First you see a woodland scene, a waterfall in the middle of a glen with a deer drinking from the pool at the bottom of a waterfall. Then you see a scene from Paris, back on earth, the Eiffel Tower standing regally in the background, cafe’s with visitors dressed in 1920’s splendor.  Then you see a scene from a classic cartoon, Ash Ketchum and Pikachu are gesturing to you to join them in their quest to “catch ‘em all”.  It keeps going, shuffling so fast that you can’t keep up.  You notice the kill switch in the corner, and realize that this will be draining the energy from the power core. If you push the button, you might be able to give more power to the atmo engine, and increase the amount of oxygen.
+The holodeck is stuck on shuffle, if you hit the kill switch you’ll divert power to the atmo engine.
+false

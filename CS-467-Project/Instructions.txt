@@ -1,0 +1,30 @@
+﻿Midway Instructions
+
+
+To compile the code simply run ‘make’.
+
+
+To execute the program run ‘./mainLoopTest’.
+
+
+It will print out some game information and allow you to type input. 
+
+
+You can type:
+
+
+“look” to get the room description
+
+“grab Employee Manual” or “grab the employee manual” to grab the employee manual (this currently doesn’t find employee manual but we’re working on it)
+
+
+“drop Employee Manual” or “drop the employee manual” will drop the manual back to the floor if already in your inventory (since grab does not work, this will tell you that there is not manual to drop)
+
+
+Any other input should tell you that it is invalid or do nothing.  
+
+
+To break the loop you can type “quit” or end the process with ctrl + c.
+
+
+You can then run ‘make clean’ to remove the build files.

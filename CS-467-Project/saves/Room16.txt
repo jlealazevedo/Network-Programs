@@ -1,0 +1,4 @@
+escape pod
+Safety at last! You stumble into the escape pod, where there is an ergonomic chair that will fold out into a hibernation bed when activated.  Someone has thoughtfully placed a bottle of vodka with a glass next to the chair, likely a soldier was using the pod as a room for some private drinking.  You look to the right and see a porthole that shows the vast expanse of space.  You can see a planet surrounded by four moons far away, otherwise it’s a black blanket dotted with distant stars.  You breathe a sigh of relief.
+There is a chair you can sit in to activate the escape, some vodka to drink, or you can look out the port hole.
+false

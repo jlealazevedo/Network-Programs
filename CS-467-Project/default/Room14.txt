@@ -1,0 +1,4 @@
+lab
+You walk in and can smell the acrid chemicals that are bubbling over a bunsen burner before you see them sitting under a chemical hood at the far side of the room.  Whomever was working must have left in a hurry and left the hood off.  You look around and see that the whole lab is immaculate, except for a desk in the corner.  The desk is covered with illegible notes and diagrams.  There are several old books stacked in one corner, and a dusty lamp casts a golden glow over the papers.  You notice several drawers as well. 
+There are bubbling chemicals under a chemical hood and a desk with drawers that is covered in papers.
+false

@@ -1,0 +1,4 @@
+strategy room
+You walk into the strategy room.  There is a long table strewn with star maps and hastily scribbled notes.  At the head of the table is the Captain’s Chair, much larger and more ornate than the other chairs at the table. Something glints in the light on top of the chair, you’ll have to look at the chair closely to find out what that is.  In front of the chair, on the table, is a binder titled “Unknown Hostile - Intel”.
+There is a binder with intel in it on the table in front of the captain’s chair.  You can inspect the captain’s chair to see if there is anything there. 
+false

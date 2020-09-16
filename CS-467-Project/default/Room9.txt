@@ -1,0 +1,4 @@
+corridor
+You walk into the corridor and see it is shrouded in steam.  The offending steam pipe is in the middle of the corridor.  Through the mist you can see something smeared on the far wall, though it is too hard to make out exactly what it is. You can see other doors down the corridor as well. 
+The corridor is filled with steam and there is a bloody handprint on the wall.
+false

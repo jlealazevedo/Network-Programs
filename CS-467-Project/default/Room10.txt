@@ -1,0 +1,4 @@
+armory
+The wall across from you is filled with different phasers, phaser cannons, and other assorted weapons. You flashback to your first day when Lopez knocked half the weapons to the ground in his excitement to get his first phaser.  Your eyes well at the memory of his antics.  The wall to the right has a crane that is holding up a mech suit.  It looks like the mech suit has taken damage, but it will take a closer look to see if it’s usable.  On the left there is a large safe with a badge reader on it.
+There is a mech suit hanging from a crane on the wall to the right. The wall to the left has a safe that is locked with a badge reader.
+false

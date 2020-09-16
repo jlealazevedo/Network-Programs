@@ -1,0 +1,4 @@
+transporter room
+You walk into the room as a shower of sparks emit from the transporter in the center of the room.  The glass cylinder that encased the transport previously was shattered on the ground around the transporter.  The console that controlled the transporter was split in two with wires pulled out and exposed. You see a body laying, outstretched on the ground as if the person had been running to the transporter when he was struck down.
+The glass tube around the transporter has been shattered. The console is split in half, and there is a body on the floor. 
+false

@@ -1,0 +1,4 @@
+quartermaster
+There is a desk in the middle of the room.  Behind it is a wall with neatly folded military uniforms and training wear.  They are sorted from smallest size to largest size.  Each was pressed before being folded, and you can feel the crispness of the uniforms just by looking at them.  On the right wall is a cupboard holding snacks and other assorted items that were available for sale.  Things that any recruit might forget and realize they need 2 months into interstellar travel.  The most expensive is a package of Twinkies.  Twinkies are another form of currency aboard military space ships.  The other wall is just a large screen that usually shows reports of things happening around the ship.  Currently it is just flashing a warning that reads “OXYGEN AT CRITICAL LEVELS, INTERFACE FOR MORE INFO”.
+There is a wall of nicely pressed uniforms behind a desk.  The left side of the room has a screen with an Oxygen level warning flashing.
+false
